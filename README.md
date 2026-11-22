@@ -13,7 +13,7 @@ I'm an IT student interested in software development, full-stack web development
 
 ### 🚀 Featured Projects
 
--Thunder Express Trucking LLC – A responsive trucking business website built using React, Vite, and Tailwind CSS.
+- **[Thunder Express Trucking LLC](https://thunderexpresstruckingllc.com/)** – A responsive trucking business website built using React, Vite, and Tailwind CSS.
 - **FoundIt** – A MERN-stack project focused on a web-based platform.
 
 ### 💼 Experience
