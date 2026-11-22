@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Dua Hayat! 👋
 
-<!--
-**duahayat/duahayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Information Technology Student**
 
-Here are some ideas to get you started:
+I'm an IT student interested in software development, full-stack web development, and artificial intelligence. I enjoy building practical projects, exploring new technologies, and turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Languages:** C#, Python, JavaScript, Dart, SQL
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js
+- **Tools & Technologies:** Git, GitHub, Streamlit, Firebase, FAISS
+- **Currently Exploring:** AI applications, full-stack development, and mobile computing
+
+### 🚀 Featured Projects
+
+- **Thunder Express Trucking LLC** – A trucking business website built using React, Vite, and Tailwind CSS.
+- **FoundIt** – A MERN-stack project focused on a web-based platform.
+- **MindTrap Escape Room** – A mobile escape-room game project featuring interactive puzzle levels.
+
+### 💼 Experience
+
+**AI Intern – Arch Technologies**
+
+Worked on practical AI projects involving:
+- Streamlit and Ollama chatbot development
+- QLoRA fine-tuning using Unsloth
+- PDF-based Retrieval-Augmented Generation (RAG) using FAISS
+- Speech-to-text applications using Whisper
+
+### 🌱 Currently Learning
+
+Improving my software development skills, exploring AI technologies, and building projects that strengthen my practical experience.
+
+### 🤝 Let's Connect
+
+- GitHub: [@duahayat](https://github.com/duahayat)
