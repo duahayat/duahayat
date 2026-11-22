@@ -1,6 +1,7 @@
 # Hi, I'm Dua Hayat! 👋
 
 🎓 **BS Information Technology Student**
+🎓 Air University | BS Information Technology
 
 I'm an IT student interested in software development, full-stack web development, and artificial intelligence. I enjoy building practical projects, exploring new technologies, and turning ideas into working applications.
 
