@@ -15,7 +15,6 @@ I'm an IT student interested in software development, full-stack web development
 
 - **Thunder Express Trucking LLC** – A trucking business website built using React, Vite, and Tailwind CSS.
 - **FoundIt** – A MERN-stack project focused on a web-based platform.
-- **MindTrap Escape Room** – A mobile escape-room game project featuring interactive puzzle levels.
 
 ### 💼 Experience
 
